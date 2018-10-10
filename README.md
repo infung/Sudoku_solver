@@ -16,4 +16,17 @@ heuristic). <br>
 
 # how to run
 simply, run command <br>
-$g++ -std=c++14 <cppfile> <br> 
+$g++ -std=c++14 <<cpp file>> -o <<executable file>> <br>
+$./<<executable file>> < input.txt <br>
+
+## input.txt:
+eg: <br>
+6 7 9 0 0 0 0 3 0 <br>
+8 0 0 2 4 0 1 0 0 <br>
+4 1 2 0 0 0 0 0 0 <br>
+9 0 0 0 0 4 0 6 1 <br>
+5 2 0 0 1 0 9 0 0 <br>
+1 0 0 0 0 3 0 0 0 <br>
+3 0 0 1 7 8 0 0 9 <br>
+7 0 0 0 9 2 5 0 4 <br>
+0 9 0 0 6 5 0 0 8 <br>
