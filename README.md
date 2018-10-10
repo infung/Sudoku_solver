@@ -8,9 +8,9 @@
 			 - All numbers in each sub-grip are different.<br>
 
 # Three versions:
-- Version A : Standard backtracking search <br>
-- Version B : Standard backtracking search + forward checking <br>
-- Version C : Standard backtracking search + forward checking + heuristics
+- Version 1 : Standard backtracking search <br>
+- Version 2 : Standard backtracking search + forward checking <br>
+- Version 3 : Standard backtracking search + forward checking + heuristics
 (minimum-remaining-values heuristic, degree heuristic and leastconstraining-value
 heuristic). <br>
 
