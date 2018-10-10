@@ -16,8 +16,8 @@ heuristic). <br>
 
 # how to run
 simply, run command <br>
-$g++ -std=c++14 <<cpp file>> -o <<executable file>executable file> <br>
-$./<<executable file>> < input.txt <br>
+$g++ -std=c++14 <<cpp file>cpp file> -o <<executable file>executable file> <br>
+$./<<executable file>executable file> < input.txt <br>
 
 ## input.txt:
 eg: <br>
